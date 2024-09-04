@@ -10,7 +10,7 @@ Contact: onnoo@hanyang.ac.kr
 
 ### [https://onnoo.github.io](https://onnoo.github.io/)
 
-### [외장하드](https://onnoo-profile.notion.site/Jaewoo-Yang-onnoo-9fdfb6d7eb9e43b38e0a8752855baf44)
+### [Notion](https://onnoo-profile.notion.site/Jaewoo-Yang-onnoo-9fdfb6d7eb9e43b38e0a8752855baf44)
 
 
 <!--
