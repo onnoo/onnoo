@@ -3,8 +3,6 @@
 Contact: onnoo@hanyang.ac.kr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onnoo&&show_icons=true&theme=buefy)
-![onnoo](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=onnoo&theme=white&size=small&compact=1&use_back_color=1&use_border=1&use_shadow=0)
-
 
 ### [CV](https://onnoo.github.io/profile/)
 
