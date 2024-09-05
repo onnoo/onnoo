@@ -1,5 +1,7 @@
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonnoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+I am working in the area of natural language processing, large language model, model compression, and interactive AI.
+
 - Contact: onnoo@hanyang.ac.kr
 - CV: [link](https://onnoo.github.io/profile/)
 - Blog: [https://onnoo.github.io](https://onnoo.github.io)
