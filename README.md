@@ -9,10 +9,11 @@ I am working in the area of natural language processing, large language model, m
 - Blog: [https://onnoo.github.io](https://onnoo.github.io)
 - Notion: [link](https://onnoo-profile.notion.site/Jaewoo-Yang-onnoo-9fdfb6d7eb9e43b38e0a8752855baf44)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=onnoo)](https://solved.ac/onnoo)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onnoo&&show_icons=true&theme=buefy)
+
+<a href="https://solved.ac/onnoo"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=onnoo" height="28px"/></a> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 <!--
 **onnoo/onnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
